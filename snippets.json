@@ -61,7 +61,7 @@
 		"description": "Angulars v17+ @switch control flow"
 	},
 	"@default": {
-		"prefix": ["@default {", "@switchDefault"],
+		"prefix": ["@sdefault {", "@switchDefault"],
 		"body": [
 			"@default {",
 			"  $2",
