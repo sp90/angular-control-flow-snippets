@@ -4,6 +4,9 @@
   "description": "Snippets for the Angular v17+ control flow",
   "version": "0.0.1",
   "publisher": "sp90",
+  "repository": {
+    "url": "https://github.com/sp90/angular-control-flow-snippets"
+  },
   "engines": {
     "vscode": "^1.82.2"
   },
