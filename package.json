@@ -2,7 +2,7 @@
   "name": "angular-control-flow-snippets",
   "displayName": "Angular control flow snippets",
   "description": "Snippets for the Angular v17+ control flow",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "sp90",
   "icon": "images/angular-logo.png",
   "repository": {
