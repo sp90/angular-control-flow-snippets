@@ -10,6 +10,10 @@
   "categories": [
     "Snippets"
   ],
+  "scripts": {
+    "contributors:add": "all-contributors add",
+    "contributors:generate": "all-contributors generate"
+  },
   "contributes": {
     "snippets": [
       {
@@ -17,5 +21,8 @@
         "path": "./snippets.json"
       }
     ]
+  },
+  "devDependencies": {
+    "all-contributors-cli": "^6.26.1"
   }
 }
