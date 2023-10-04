@@ -1,4 +1,26 @@
 {
   "projectName": "angular-control-flow-snippets",
-  "projectOwner": "sp90"
+  "projectOwner": "sp90",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "sp90",
+      "name": "Simon",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3041602?v=4",
+      "profile": "https://nomis.dk/",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "linkToUsage": true
 }
