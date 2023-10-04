@@ -21,4 +21,12 @@ Usage
 This is an early draft if you have suggestions to improvements either open an issue or a PR where we can discuss the best approach
 
 ### Contributors
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
