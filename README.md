@@ -20,7 +20,7 @@ Usage
 
 This is an early draft if you have suggestions to improvements either open an issue or a PR where we can discuss the best approach
 
-### Contributors
+## Contributors ✨
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -30,3 +30,4 @@ This is an early draft if you have suggestions to improvements either open an is
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
+[![All Contributors](https://img.shields.io/github/all-contributors/sp90/angular-control-flow-snippets?color=ee8449&style=flat-square)](#contributors)
