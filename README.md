@@ -1,3 +1,5 @@
+[![All Contributors](https://img.shields.io/github/all-contributors/sp90/angular-control-flow-snippets?color=ee8449&style=flat-square)](#contributors-)
+
 # Angular control flow snippets
 
 Snippets for the Angular v17+ control flow, to ease the use of the new control flow so if you forget the syntax then you have it at your fingertips
@@ -21,6 +23,7 @@ Usage
 This is an early draft if you have suggestions to improvements either open an issue or a PR where we can discuss the best approach
 
 ## Contributors ✨
+
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
@@ -30,4 +33,8 @@ This is an early draft if you have suggestions to improvements either open an is
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-[![All Contributors](https://img.shields.io/github/all-contributors/sp90/angular-control-flow-snippets?color=ee8449&style=flat-square)](#contributors)
+
+
+## LICENSE
+
+[MIT](LICENSE)
