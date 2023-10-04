@@ -6,6 +6,8 @@
 
 Snippets for the Angular v17+ control flow, to ease the use of the new control flow so if you forget the syntax then you have it at your fingertips
 
+![Preview](./images/ng-cf-snippets.gif)
+
 Usage
 
 - `@if`
