@@ -1,0 +1,21 @@
+{
+  "name": "angular-control-flow-snippets",
+  "displayName": "Angular control flow snippets",
+  "description": "Snippets for the Angular v17+ control flow",
+  "version": "0.0.1",
+  "publisher": "sp90",
+  "engines": {
+    "vscode": "^1.82.2"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets.json"
+      }
+    ]
+  }
+}
