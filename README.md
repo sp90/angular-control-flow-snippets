@@ -7,14 +7,14 @@ Usage
 - `@if`
 - `@for`
 - `@switch`
-- `@case`
-- `@default`
+  - `@case` helper to add more cases to a `@switch`
+  - `@default` helper to add a default case to a `@switch`
 - `@defer`
-- `immediate` subcommand to @defer to provide a shortcut
-- `interaction` subcommand to @defer to provide a shortcut
-- `viewport` subcommand to @defer to provide a shortcut
-- `hover` subcommand to @defer to provide a shortcut
-- `timer` subcommand to @defer to provide a shortcut
+  - `immediate` subcommand to `@defer` to provide a shortcut
+  - `interaction` subcommand to `@defer` to provide a shortcut
+  - `viewport` subcommand to `@defer` to provide a shortcut
+  - `hover` subcommand to `@defer` to provide a shortcut
+  - `timer` subcommand to `@defer` to provide a shortcut
 
 ## Contributions
 
